@@ -1,1 +1,2 @@
 hi i am in remote
+and i have used pull command and its merged with local file
