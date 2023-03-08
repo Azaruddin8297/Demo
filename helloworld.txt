@@ -5,4 +5,6 @@ main commands are :
 git int -> git clone LINK -> git add helloworld.txt -> git commit -m "changes" -> git remote add origin LINK -> git push origin main/master
 after using main command mostly we use :
 git add helloworld.txt -> git commit -m "changes" -> git push origin main/master 
-hiii                        
+hiiiii                     
+jjj
+hiii
