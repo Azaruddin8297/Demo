@@ -1,2 +1,8 @@
 hi i am in remote
 and i have used pull command and its merged with local file
+now agian i have add my file from local to remote by using git command with git bash
+main commands are : 
+git int -> git clone LINK -> git add helloworld.txt -> git commit -m "changes" -> git remote add origin LINK -> git push origin main/master
+after using main command mostly we use :
+git add helloworld.txt -> git commit -m "changes" -> git push origin main/master 
+                           
